@@ -1,4 +1,6 @@
 var poo = elm;
 array.forEach(element => {
-    console.log("ok");
+    if (poo === master) {        
+        console.log("poo");
+    }
 });
